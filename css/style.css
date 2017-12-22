@@ -1,0 +1,51 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Alegreya Sans', sans-serif;
+  color: #676858;
+  font-weight: 300;
+}
+
+hr{
+  color: #7d97ad;
+  background-color: #7d97ad;
+  height: 5px;
+  }
+
+.logo {
+  float: left;
+  width: 120px;
+  height: 100px;
+  margin: 0 0 10px 20px;
+}
+
+.title--font{
+    font-size:60px;
+    font-weight:100;
+    color: #7d97ad;
+}
+
+.image {
+  display: block;
+  width:370px;
+  height:300px;
+}
+
+.title--image {
+  display: block;
+  width:550px;
+  height:700px;
+}
+
+.image--center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  height: 100px;
+  background-color: black;
+  margin-top: 30px;
+}
